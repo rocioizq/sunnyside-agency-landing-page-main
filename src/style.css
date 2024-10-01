@@ -418,7 +418,7 @@ ul li {
     }
 
     .creatives {
-        background: url("images/desktop/image-header.jpg") no-repeat center calc(50% - 100px) / cover; /* Ajusta el valor a la medida que necesites */
+        background: url("images/desktop/image-header.jpg") no-repeat center calc(50% - 100px) / cover; 
 
     }
 
